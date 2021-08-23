@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 <<<<<<< TO >>>>>>>
 # Movies-ETL
 =======
+=======
+>>>>>>> be16e9d2a90ac97e8649ae0a13089c43b525553a
 # **Movies_ETL**
 
 ## Overview of Project
@@ -37,4 +40,7 @@ A database was created at PgAdmin to load the cleaned file. To import the databa
 ## Summary
 The ETL process in this project allowed the extraction of different datasets from different sources. After transforming the data into a clean dataset, the data was ready for querying and analysis, allowing its end users to have a better view of the information and consequently making better decisions. 
 
+<<<<<<< HEAD
+>>>>>>> be16e9d2a90ac97e8649ae0a13089c43b525553a
+=======
 >>>>>>> be16e9d2a90ac97e8649ae0a13089c43b525553a
