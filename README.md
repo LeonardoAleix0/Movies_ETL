@@ -1,19 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< TO >>>>>>>
-# Movies-ETL
-=======
-=======
->>>>>>> be16e9d2a90ac97e8649ae0a13089c43b525553a
 # **Movies_ETL**
 
 ## Overview of Project
 
 This project’s objective is to extract, transform and load using regular expressions to parse data. After cleaning the data, maintaining its consistency and integrity, the data will be transferred from one database to another. The deliverables for this project are:
 
-*	Write an ETL function to read three data files.
+*	  Write an ETL function to read three data files.
+
 * 	Transform the data sources to transform it into one data set.
-*	Create a clean database and load it in SQL.
-*	
+
+*	  Create a clean database and load it in SQL.
+
 
 ## Data Source Information
 The data source used in this project is composed by two CSV files and one JSON file. 
@@ -40,7 +36,3 @@ A database was created at PgAdmin to load the cleaned file. To import the databa
 ## Summary
 The ETL process in this project allowed the extraction of different datasets from different sources. After transforming the data into a clean dataset, the data was ready for querying and analysis, allowing its end users to have a better view of the information and consequently making better decisions. 
 
-<<<<<<< HEAD
->>>>>>> be16e9d2a90ac97e8649ae0a13089c43b525553a
-=======
->>>>>>> be16e9d2a90ac97e8649ae0a13089c43b525553a
